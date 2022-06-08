@@ -1,0 +1,5 @@
+spring:
+  r2dbc:
+    username: YOUR_USERNAME
+    password: YOUR_PASSWORD
+    url: YOUR_URL
